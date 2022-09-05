@@ -1,2 +1,0 @@
-#!/bin/bash
-find /mount/point -type d | wc -l
