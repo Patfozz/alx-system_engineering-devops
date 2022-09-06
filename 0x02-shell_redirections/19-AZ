@@ -1,2 +1,0 @@
-#!/bin/bashx
-tr "A" "Z" | tr "c" "e"
